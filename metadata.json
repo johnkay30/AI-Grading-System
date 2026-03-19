@@ -1,0 +1,5 @@
+{
+  "name": "AI Exam Grader",
+  "description": "AI-Powered Theoretical Exam Grading and Feedback using SBERT similarity and Gemini analysis.",
+  "requestFramePermissions": []
+}
